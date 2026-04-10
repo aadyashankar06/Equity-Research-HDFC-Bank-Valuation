@@ -57,7 +57,7 @@ Vaibhav Verma
 Team Name: Alpha Analysts
 
 ## 🏆 Recognition
-Shortlisted among Top 15 teams out of 350+ teams at BITS Pilani’s flagship equity research competition (InvestoQuest)
+- Shortlisted among Top 15 teams out of 350+ teams at BITS Pilani’s flagship equity research competition (InvestoQuest)
 
 ## Skills Demonstrated
 Equity Research
