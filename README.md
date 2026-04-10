@@ -70,4 +70,4 @@ This project presents a comprehensive equity research analysis of HDFC Bank, one
 
 ---
 
-© 2026 Aadya Shankar Jha & Vaibhav Vermaw
+© 2026 Aadya Shankar Jha & Vaibhav Verma
